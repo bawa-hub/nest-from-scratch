@@ -9,3 +9,5 @@
 # create src/main.ts
 
 # run npx ts-node-dev src/main.ts
+
+# create controller and module file separately
