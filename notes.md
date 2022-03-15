@@ -7,3 +7,5 @@
 # create tsconfig.json file
 
 # create src/main.ts
+
+# run npx ts-node-dev src/main.ts
